@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+.env
+venv/
+env/
+ENV/
+
+# IDE / Editor specific (optional, but good for VSC users)
+.vscode/
+# .idea/ # If you ever use PyCharm
+
+# Other
+*.DS_Store
+Thumbs.db
